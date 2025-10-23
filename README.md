@@ -21,8 +21,8 @@ This project demonstrates the full lifecycle of NFT-based asset creation and tra
 Copy the repository to your local machine and navigate into the project folder.
 
 ```bash
-git clone <your-repo-url>
-cd <your-repo-folder>
+git clone https://github.com/Ishwarya2107/nft-auction.git
+cd nft-auction
 ```
 
 **Step 2: Install dependencies**  
